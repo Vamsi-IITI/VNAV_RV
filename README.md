@@ -8,6 +8,8 @@ MIT's VNAV ( MIT16.485 - Visual Navigation for Autonomous Vehicles ) Lab Exercis
 ```
 git clone https://github.com/Vamsi-IITI/VNAV_RV.git
 cd ~/VNAV_RV
+```
+```
 catkin_make
 source devel/setup.bash
 roslaunch two_drones_pkg two_drones.launch
